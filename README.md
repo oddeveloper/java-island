@@ -19,6 +19,7 @@
 
 ##### 개선할 사항
 
-1. Application, GridService 코드부 개선: Console 입출력, 점 생성, 제거 관련, etc..
-2. 격자가 더 큰 조건일 경우의 File IO 개선 고려
-3. Junit 테스트코 추가
+1. Junit 테스트 코드 추가
+2. Application, GridService 코드부 개선: Console 입출력, 점 생성, 제거 관련, etc..
+3. 격자가 더 큰 조건일 경우의 File IO 개선 고려
+
