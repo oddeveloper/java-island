@@ -12,7 +12,7 @@ public class CommandTest {
     @EnumSource(Command.class)
     void getValueForCommand(Command command) {
         int commandNumber = command.getCommand();
-        assertTrue(commandNumber >= 0 && commandNumber < 4);
+        assertTrue(commandNumber >= 0 && commandNumber < 6);
     }
 
 }
